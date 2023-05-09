@@ -1,0 +1,16 @@
+{
+    "setting": {
+        "urlCheck": true,
+        "es6": true,
+        "postcss": true,
+        "minified": true,
+        "newFeature": true,
+        "autoCompile": true,
+        "useCompilerPlugins": [
+            "typescript"
+        ]
+    },
+    "appid": "testAppId",
+    "projectname": "tt.request",
+    "douyinProjectType": "native"
+}
